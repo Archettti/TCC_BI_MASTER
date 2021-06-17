@@ -13,8 +13,11 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-O objetivo do trabalho é aplicar as técnicas de web Scraping para obtenção e análise dos dados do site da [Global Fortune 500](https://fortune.com/global500/). O Global Fortune 500 é uma classificação das 500 maiores empresas em todo o mundo, de acordo com a medição de sua receita do ano fiscal anterior. Esta lista é compilada e publicada anualmente pela revista Fortune. Com base nos dados extraídos foi possível realizar uma análise das informações destas empresas no ano de 2020, tais como: receitas geradas, lucros, número de pessoas empregadas por estas empresas, concentração de quais países/cidades onde as empresas estão instaladas, entre outras análises.  
-O projeto se dividiu em 3 etapas inciando na (i) aplicação do scraping nas páginas, utilizando as bibliotecas Selenium e BeautifulSoup, a coleta e estruturação dos dados raspados de cada empresa; (ii) criação e validação do pandas dataframe a partir da lista com os dados coletados; (iii) e a análise exploratória dos dados das empresas.
+O objetivo do trabalho é aplicar as técnicas de Web Scraping para obtenção e análise dos dados do site da [Global Fortune 500](https://fortune.com/global500/). O Global Fortune 500 é uma classificação das 500 maiores empresas em todo o mundo, de acordo com a medição de sua receita do ano fiscal anterior. Esta lista é compilada e publicada anualmente pela revista Fortune.  
+
+O projeto se dividiu em 3 etapas inciando na (i) aplicação do scraping nas páginas, utilizando as bibliotecas Selenium e BeautifulSoup, a coleta e estruturação dos dados raspados de cada empresa; (ii) criação e validação do pandas dataframe a partir da lista com os dados coletados; (iii) a análise exploratória dos dados das empresas.  
+
+Com base nos dados extraídos foi possível realizar uma análise das informações destas empresas no ano de 2020, tais como: receitas geradas, lucros, número de pessoas empregadas por estas empresas, concentração de quais países/cidades onde as empresas estão instaladas, entre outras análises. 
 
 ---
 
